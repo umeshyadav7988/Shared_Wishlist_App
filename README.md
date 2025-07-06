@@ -34,6 +34,7 @@ A collaborative product wishlist platform where multiple users can **create**, *
 ## 🖼️ UI Snapshots
 
 ### 🔐 Login Page
+![Screenshot (553)](https://github.com/user-attachments/assets/4be94afd-ee8e-4542-bb6e-06898fbd2e5d)
 ![Screenshot (560)](https://github.com/user-attachments/assets/f5039980-2e43-4a09-b67f-803206f4b9a8)
 ![Screenshot (559)](https://github.com/user-attachments/assets/e730c73b-3198-4813-a70c-fa2dbfa2995c)
 
