@@ -31,29 +31,6 @@ A collaborative product wishlist platform where multiple users can **create**, *
 - Socket.io
 - CORS
 
----
-
-## 📂 Project Structure
-
-```
-
-Shared\_Wishlist\_App/
-├── frontend/
-│   └── src/
-│       ├── components/
-│       ├── pages/
-│       ├── services/
-│       ├── types/
-│       └── utils/
-├── backend/
-│   └── src/
-│       ├── controllers/
-│       ├── models/
-│       ├── routes/
-│       ├── middleware/
-│       └── utils/
-└── README.md
-
 ## 🖼️ UI Snapshots
 
 ### 🔐 Login Page
